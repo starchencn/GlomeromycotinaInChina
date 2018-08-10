@@ -20,10 +20,16 @@ Article Abstract
 
 
 Shared Data from the article
-Appendix 10: Phylogenetic Tree
-Appednix 12: Plot Location
-Appendix 13: Environmental Parameters
-Appendix 14: OTU Table - Presence Absence
-Appendix 15: Intermediate Results
+
+-Appendix 10: Phylogenetic Tree - file: "China Tree.nwk"
+
+-Appednix 12: Plot Location - file: "Plot location.csv
+
+-Appendix 13: Environmental Parameters - file: "Biotic and Abiotic Parameters.csv"
+
+-Appendix 14: OTU Table - Presence Absence - file: "OTU.table.csv"
+
+-Appendix 15: Intermediate Results - file: "Appendix 15.csv"
+
 
 For more information please contact me at bdchen@rcees.ac.cn
